@@ -1,0 +1,12 @@
+article{
+    margin: 10px;
+    
+}
+#grid{
+    border-width: thin;
+    background-color: powderblue;
+    border-style: solid;
+    margin-bottom:5px;
+    text-align: center;
+
+}
